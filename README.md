@@ -19,13 +19,13 @@ A modern, responsive website for Enkipai Hill Hotel, showcasing the hotel's amen
 
 ## Live Demo
 
-Visit the live website at: [Enkipai Hill Hotel](https://grandson-tech.github.io/Enkipai-hill-hotel/)
+Visit the live website at: [Enkipai Hill Hotel](https://grandson-tech.github.io/Enkipai-Hill-Hotel/)
 
 ## Local Development
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Grandson-tech/Enkipai-hill-hotel.git
+git clone https://github.com/Grandson-tech/Enkipai-Hill-Hotel.git
 ```
 
 2. Open `index.html` in your browser to view the website locally.
